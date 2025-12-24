@@ -1,0 +1,10 @@
+{
+  "studentName": "John Doe",
+  "assessmentDate": "2023-10-27",
+  "skills": {
+    "pronunciation": 6,
+    "fluency": 4,
+    "vocabulary": 8.5,
+    "grammar": 9
+  }
+}
